@@ -27,3 +27,6 @@ STEPS TO BUILD:
 5. The app should start right after that
 6. Log in w/ a Google account and later you will be taken to the main screen where you can select an event and check in/out as needed.
 7. All features above should be available for testing
+
+OTHER PLATFORMS:
+- Android: https://github.com/pabsusdev7/TheRealImIn-Android
